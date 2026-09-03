@@ -630,6 +630,7 @@ h1 em {
     display: grid;
     grid-template-columns: 1fr 1.5fr;
     gap: 80px;
+    padding-top: 60px;
     border-top: 1px solid var(--line)
 }
 
